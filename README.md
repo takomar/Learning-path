@@ -1,1 +1,21 @@
 # Learning-path
+- JavaScript & Typescript
+  - https://roadmap.sh/javascript
+  - https://roadmap.sh/typescript
+  - https://basarat.gitbook.io/typescript
+  - https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Async_JS
+  - https://javascript.info/event-loop
+    - https://www.youtube.com/watch?v=cCOL7MC4Pl0
+
+- https://angular.dev/overview
+	- go over the guides
+	- follow tutorials
+	- https://angular.dev/tutorials/first-app
+	- https://www.youtube.com/watch?v=3qBXWUpoPHo
+- https://ngrx.io/
+- https://redux.js.org/
+- https://micro-frontends.org/
+- Java
+  - https://www.youtube.com/watch?v=A74TOX803D0
+  - https://www.youtube.com/watch?v=vtPkZShrvXQ
+  - https://www.baeldung.com/java-concurrency
